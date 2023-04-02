@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="title_input">Titulo Libro</string>
+    <string name="author_input">Autor Libro</string>
+    <string name="pages_input">Numero de paginas</string>
+    <string name="add_button">Agregar</string>
+    <string name="title_input2">Titulo Libro</string>
+    <string name="author_input2">Autor libro</string>
+    <string name="pages_input2">Numero de Paginas</string>
+    <string name="update_button">Actualizar</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="loginbtn">Login</string>
+</resources>
